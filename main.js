@@ -14,3 +14,7 @@ $( document ).ready(function(){
   }
 
 });
+
+
+
+/* risoluzione vista a lezione. aggiungere la classe active quando si clicca l'icona dell'haburger menu e poi togliere la classe active quando clicco l'icona x */
